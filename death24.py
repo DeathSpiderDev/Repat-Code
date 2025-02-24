@@ -1,7 +1,7 @@
 import time
 
 while True:
-    print("MahimOp")
+    print("DEATH 💀")
     time.sleep(1)
-    print("MahimOp")
+    print("DEATH IS OG 🚄")
     time.sleep(1)
